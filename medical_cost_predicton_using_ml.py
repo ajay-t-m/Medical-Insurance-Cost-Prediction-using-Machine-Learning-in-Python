@@ -159,4 +159,3 @@ def prediction():
   else:
     print('The insurance cost is USD ', price[0])
 price=prediction()
-price
